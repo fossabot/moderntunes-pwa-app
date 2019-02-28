@@ -1,4 +1,6 @@
 # ModernTunes Progressive web application
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fadwankar%2Fmoderntunes-pwa-app.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fadwankar%2Fmoderntunes-pwa-app?ref=badge_shield)
+
 
 
 A demo of the new progressive web app support .
@@ -74,3 +76,7 @@ Highlights of Ext JS Community Edition
     npm install
     npm start
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fadwankar%2Fmoderntunes-pwa-app.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fadwankar%2Fmoderntunes-pwa-app?ref=badge_large)
